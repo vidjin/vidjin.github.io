@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Masters in Computer Science Student: Machine Learning Specialization <br />
+Computer Science Masters Student: Machine Learning Specialization <br />
 Georgia Tech, Atlanta 2019-2020 <br />
 Microsoft, 2017-2019 <br />
 Igdtuw, 2013-2017
