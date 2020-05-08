@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Masters in Computer Science Student at Georgia Tech, Atlanta
+Microsoft, 2017-2019
+Igdtuw, 2013-2017
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vjindal8@gatech.edu](mailto:vjindal8@gatech.edu)
