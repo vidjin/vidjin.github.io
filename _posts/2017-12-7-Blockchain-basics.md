@@ -40,3 +40,11 @@ anonymous person or group known as Satoshi Nakamoto in 2008 and
 implemented the following year as a core component of the digital 
 currency bitcoin, where it serves as the public ledger for all transactions. 
 Bitcoin has been in news for its positive as well as negative side.
+
+So the question is how should I learn more about blockchain from a plethora of available resources. So here's my list of resources which I found better to be covered. I will keep on updating the list if I run into any source worth adding! 
+
+1. Start with this blog by BlockGeeks
+2. To have a better visual demo, do watch this video Blockchain 101 - A Visual Demo
+3. To know more about hashing and merkle tree, video by ChainThat is great
+4. Now you would like to see one application of it, watch this ChainThat Degree - Education Fraud Solution
+5. Lastly, one of the biggest and successful application is BitCoin
