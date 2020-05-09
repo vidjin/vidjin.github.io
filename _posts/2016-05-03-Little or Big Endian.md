@@ -1,11 +1,12 @@
 Think of computer memory as cells which are 1 byte long. In order to store 2 byte hex-data (90AB), there are two possibilities: 
 
 1. Big endian: In this, you store the most significant byte in the smallest address. Examples include Motorola 68000 series, Xilinx Microblaze, SuperH, IBM z/Architecture or Atmel AVR32. 
-
+<div align="center">
 | Address value |     Data |
 | :------------ | --------:|
 |  1001         |        90|
 |  1002         |        AB|
+<div/>
 
 
 2. Little endian: In this, you store the least significant byte in the smallest address.
@@ -52,4 +53,5 @@ int main()
 
 Output: Intel processor, so output is little endian.
 
-![Output](images/LittleEndian.png)
+![Output](/images/LittleEndian.png "Output Screenshot")
+
