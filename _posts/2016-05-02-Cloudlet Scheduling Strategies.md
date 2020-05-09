@@ -1,15 +1,9 @@
 Cloudsim employs namely two strategies which are used to schedule the cloudlets. 
 One of them is time-shared scheduler and second one is space-shared scheduler.
 
-Time-shared scheduler: All available resources are shared between cloudlets for 
-stipulated amount of time only. It uses round- robin scheduling algorithm. 
-All space is allocated to one particular thread which is scheduled at that time. 
-As the time frame for that cloudlet is over, all space resources 
-are allocated to one cloudlet.
+Time-shared scheduler: All available resources are shared between cloudlets for stipulated amount of time only. It uses round- robin scheduling algorithm. All space is allocated to one particular thread which is scheduled at that time. As the time frame for that cloudlet is over, all space resources are allocated to one cloudlet.
 
-Space-shared scheduler: All available space is divided among the cloudlets. 
-One cloudlet is running at one time but space is equally distributed among the 
-various cloudlets.
+Space-shared scheduler: All available space is divided among the cloudlets. One cloudlet is running at one time but space is equally distributed among the various cloudlets.
 
 We will use both of them:
 
@@ -25,8 +19,7 @@ We will use both of them:
 
 
 2. Space- shared scheduling:
-    Change the constructor of each virtual machine as the shown below 
-    for space shared scheduling algorithm.
+    Change the constructor of each virtual machine as the shown below for space shared scheduling algorithm.
 ```
     Vm vm1 = new Vm(vmid, brokerId, mips, pesNumber, ram, bw, size, vmm, new 
     CloudletSchedulerSpaceShared());
