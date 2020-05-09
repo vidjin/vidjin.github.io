@@ -1,5 +1,5 @@
 Hope now you know how to install the cloudim in Netbeans (if you don't know 
-how to do this refer this (blog)[]. 
+how to do this refer this [blog](https://vidjin.github.io/Simmering-the-Cloudsim/). 
 
 Now lets create two virtual machines and four cloudlets in it.
 
