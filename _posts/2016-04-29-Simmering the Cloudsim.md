@@ -33,46 +33,46 @@ Steps:
 1. Netbeans Installation:Simply click on the downloaded file and follow it with default 
 settings. Open the netbeans. Click file then new project.
 
-![Step1](/images/cloudsim-step1.png)
+![Step1](/images/Simmering-Cloudsim/cloudsim-step1.png)
 
 2.  Select java and java application.
 
-![Step2](/images/cloudsim-step2.png)
+![Step2](/images/Simmering-Cloudsim/cloudsim-step2.png)
 
 3. It will take few seconds to create the project.
 
-![Step3](/images/cloudsim-step3.png)
+![Step3](/images/Simmering-Cloudsim/cloudsim-step3.png)
 
 4. Give name to your project and uncheck to create main file option.
 
-![Step4](/images/cloudsim-step4.png)
+![Step4](/images/Simmering-Cloudsim/cloudsim-step4.png)
 
 5. Netbeans will take time to make project.
 
-![Step5](/images/cloudsim-step5.png)
+![Step5](/images/Simmering-Cloudsim/cloudsim-step5.png)
 
 Once it’s done double click on the new project in solution explorer. Right click on 
 libraries and choose the Add jar files.
 
-![Step6](/images/cloudsim-step6.png)
+![Step6](/images/Simmering-Cloudsim/cloudsim-step6.png)
 
 Locate the cloud sim folder and you will find cloudsim-3.0.3.jar file. Click on ok.
 
-![Step7](/images/cloudsim-step7.png)
+![Step7](/images/Simmering-Cloudsim/cloudsim-step7.png)
 
 Now locate the org folder which is present in the examples folder in main cloudsim
 folder. Copy the org folder.
 
-![Step8](/images/cloudsim-step8.png)
+![Step8](/images/Simmering-Cloudsim/cloudsim-step8.png)
 
  6. Right click on the source packages in the solution explorer panel and paste it. 
  To run the example program, open org.cloudbus.cloudsim.examples in source packages.
  Right click on example you want to run and click run file.
 
-![Step5](/images/cloudsim-step9.png)
+![Step5](/images/Simmering-Cloudsim/cloudsim-step9.png)
 
 7. Done! See the output below.
 
-![Step5](/images/cloudsim-step10.png)
+![Step5](/images/Simmering-Cloudsim/cloudsim-step10.png)
 
 Thanks for reading!
