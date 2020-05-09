@@ -1,8 +1,7 @@
-### What is blockchain?
-
 The blockchain is the hot topic nowadays, even though it was first conceptualized back
-in 1991. Blockchain, as the name suggests, is the chain of blocks. So what makes it 
-so famous? The idea on which this runs makes it completely revolutionary. 
+in 1991. Blockchain, as the name suggests, is the chain of blocks. So what makes it so famous? 
+
+The idea on which this runs makes it completely revolutionary. 
 The blockchain is a peer to peer network in which transactions are done directly 
 between two parties without the intervention of intermediaries. 
 Blockchain completely discards the trusted third party use to validate 
