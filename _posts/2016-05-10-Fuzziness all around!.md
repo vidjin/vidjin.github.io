@@ -6,6 +6,8 @@ Problem Statement: Food Tipping
 Tip is decided on the basis of various attributes. Selected member function for attributes is triangular here. Range is selected so that membership functions don’t overlap with each other.
 
 Input Variable:
+
+
 | S.No. | Attributes | Range |
 | :-----| ---------- | -----:|
 |1.     | Taste      | [0 3] |
@@ -29,6 +31,8 @@ Input Variable:
 
 
 Output Variable:
+
+
 | S.No. | Attributes | Range    |
 | :-----| ---------- | ------:  |
 |1.     | Tip        | [0 1]    |
