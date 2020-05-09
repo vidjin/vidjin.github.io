@@ -1,4 +1,6 @@
 CloudSim: A framework for modeling and simulation of Cloud Computing Infrastructures and Services. Recently, cloud computing emerged as the leading technology for delivering reliable, secure, fault-tolerant, sustainable, and scalable computational services, which are presented as Software, Infrastructure, or Platform as services (SaaS, IaaS, PaaS). 
+
+
 Moreover, these services may be offered in private data centers (private clouds), may be commercially
 offered for clients (public clouds), or yet it is possible that both public and private clouds are combined in hybrid clouds. The primary objective of this 
 project is to provide a generalized, and extensible simulation framework that 
