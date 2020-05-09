@@ -8,7 +8,7 @@ Space-shared scheduler: All available space is divided among the cloudlets. One 
 We will use both of them:
 
 1. Time-shared Scheduling:
-    Change the code as written below (rest code is same from previous post). 
+    Change the code as written below (rest code is same from [previous post](https://vidjin.github.io/Digging-deeper-into-Cloudsim/)). 
     Change the constructor of each virtual machine as the shown below.
 ```
     Vm vm1 = new Vm(vmid, brokerId, mips, pesNumber, ram, bw, size, vmm, new           
