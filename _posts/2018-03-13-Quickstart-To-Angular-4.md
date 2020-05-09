@@ -1,4 +1,6 @@
 Angular 4 is the latest version of the angular. To start and check whether you have all the resources ready to give a try, this basic blog will help you install angular and related stuff (for Windows). so let's begin!
+
+
 Open the command prompt and begin.
 Installation: 
 1. Check for  node.js existence by executing this command:
