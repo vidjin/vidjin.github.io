@@ -42,6 +42,7 @@ int main()
    printf("%s\n",str2); 
 }  
 ```
-![Output](images/Address-conversion-1.png "Output Screenshot")
+
+![Output](/images/Address-conversion-1.png "Output Screenshot")
 
 Thanks!
