@@ -61,7 +61,7 @@ Steps:
 
 ![Output](/images/fuzzy-blog/fuzzy4.png "Output Screenshot")
 
-5. Double click on the taste input variable to edit the attributes of taste. Taste has three attributes namely: delicious, normal, rancid. New box will pop up named Membership Function Editor. Go to Edit->Remove All MFs. Then Edit-> Add Mfs. Small box asking for type and no of mf will pop up. Select trimf and 3 as we want to use the triangular member function and no of member function is 3. Click Ok.      
+5.Double click on the taste input variable to edit the attributes of taste. Taste has three attributes namely: delicious, normal, rancid. New box will pop up named Membership Function Editor. Go to Edit->Remove All MFs. Then Edit-> Add Mfs. Small box asking for type and no of mf will pop up. Select trimf and 3 as we want to use the triangular member function and no of member function is 3. Click Ok.      
 
 ![Output](/images/fuzzy-blog/fuzzy5.png "Output Screenshot")
 
@@ -69,7 +69,7 @@ Steps:
 
 ![Output](/images/fuzzy-blog/fuzzy6.png "Output Screenshot")
 
-7. Do it for all the variables. Close the membership function editor.
+7.Do it for all the variables. Close the membership function editor.
 
 ![Output](/images/fuzzy-blog/fuzzy7.png "Output Screenshot")
 
@@ -81,11 +81,11 @@ Steps:
 
 ![Output](/images/fuzzy-blog/fuzzy11.png "Output Screenshot")
 
-8. In FIS Editor, go to Edit-> Rules. A new rule Editor will open. Now add rules one by one. Close when you are done.
+8.In FIS Editor, go to Edit-> Rules. A new rule Editor will open. Now add rules one by one. Close when you are done.
 
 ![Output](/images/fuzzy-blog/fuzzy12.png "Output Screenshot")
 
-9. Now go to View->Rules. See output by varying inputs. First input is [0.5 2.5 2.5 0.5 0.5] = [taste=delicious ambience=excellent service=fast price=reasonable hygiene=clean] (as range of delicious in taste is [0 1] so 0.5 means delicious, similarly others are done) so the tip value is 0.9 so tip would be 500 (as range of 500 is [0.8 1]).
+9.Now go to View->Rules. See output by varying inputs. First input is [0.5 2.5 2.5 0.5 0.5] = [taste=delicious ambience=excellent service=fast price=reasonable hygiene=clean] (as range of delicious in taste is [0 1] so 0.5 means delicious, similarly others are done) so the tip value is 0.9 so tip would be 500 (as range of 500 is [0.8 1]).
 
 ![Output](/images/fuzzy-blog/fuzzy13.png "Output Screenshot")
 
