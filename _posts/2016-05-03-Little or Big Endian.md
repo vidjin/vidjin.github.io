@@ -6,7 +6,7 @@ Think of computer memory as cells which are 1 byte long. In order to store 2 byt
 | :------------ | --------:|
 |  1001         |        90|
 |  1002         |        AB|
-<div/>
+</div>
 
 
 2. Little endian: In this, you store the least significant byte in the smallest address.
