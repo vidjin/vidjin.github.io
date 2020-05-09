@@ -1,5 +1,3 @@
-### What's Angular?
-
 Angular is one of the popular client-side frameworks now, 
 so this blog lists down some concise and basic information on it!
 
