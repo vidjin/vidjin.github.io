@@ -1,5 +1,3 @@
-## Implementing address conversion functions
-
 Some functions are used in network programming to convert the IP addresses to human readable form and back. 
 
 inet_ntop() & inet_ntoa():These functions convert a network address in a struct in_addr to a dots-and-numbers format string.
